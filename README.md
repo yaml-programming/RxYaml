@@ -1,2 +1,2 @@
 # RxYaml
-Reactive programming with YAML
+[Reactive](https://reactivex.io/)  programming with YAML.
